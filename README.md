@@ -59,7 +59,8 @@ healthcare-no-show-analysis
 ---
 
 ## Dashboard Preview
-<img width="1307" height="732" alt="Medical Appointment No-Show Analysis" src="https://github.com/user-attachments/assets/f0da8790-583f-4d0f-afed-a0bfe3e24781" />
+<img width="1271" height="717" alt="image" src="https://github.com/user-attachments/assets/fcae5833-dfa1-41d6-8391-6ab715808022" />
+
 
 
 ---
@@ -81,3 +82,4 @@ Aspiring Data Analyst
 * GitHub: https://github.com/pujithavaka99
 
 * LinkedIn: https://www.linkedin.com/in/pujithavaka99/
+
